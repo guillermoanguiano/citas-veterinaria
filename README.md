@@ -1,6 +1,6 @@
 # React / Tailwindcss + Vite project
 
 
-- Deployment: https://veterinaria-adm-citas.netlify.app/
+- Deployment: https://citasvet-project.netlify.app/
 
 
